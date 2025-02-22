@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Jerrylikesgreen!  
-- 👀 I’m interested in... **Chunky Boys**.  ----> ![Cat Image](https://placekitten.com/400/300)
+- 👀 I’m interested in... **Chunky Boys**.  ----> ![Cat Image]([https://placekitten.com](https://ca-times.brightspotcdn.com/dims4/default/0da7ce8/2147483647/strip/true/crop/1611x906+0+0/resize/1200x675!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2Fef%2F05c1aab3e76c3d902aa0548c0046%2Fla-la-hm-pet-issue-18-jpg-20150615)/400/300)
 - 🌱 I'm currently learning... **Game Programming** and **Game Design**.  
 - 💞️ I'm looking to collaborate on... **anything!** I'm willing to learn any skill.  
 - 📫 How to reach me: **jerrylikesgreen@gmail.com** or Discord: **jerrylikes_72469**.  
