@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jerrylikesgreen!  
-- 👀 I’m interested in... **Chunky Boys**.  <- Not what you think, perv ..... 
-- 🌱 I’m currently learning... **Game Programming** and **Game Design**.  
-- 💞️ I’m looking to collaborate on... **anything!** I'm willing to learn any skill.  
+- 👋 Hi, I'm @Jerrylikesgreen!  
+- 👀 I’m interested in... **Chunky Boys**.  ----> ![Cat Image](https://placekitten.com/400/300)
+- 🌱 I'm currently learning... **Game Programming** and **Game Design**.  
+- 💞️ I'm looking to collaborate on... **anything!** I'm willing to learn any skill.  
 - 📫 How to reach me: **jerrylikesgreen@gmail.com** or Discord: **jerrylikes_72469**.  
 - ⚡ **Journey Started:** September 2025.  
